@@ -98,7 +98,7 @@ Signature signing and verification should follow the workflow as specified in th
 
 URI: {.p.aud}
 Version: {.p.version}
-Chain ID: {.p.iss[chainId]}
+Chain ID: {.p.iss[chainId.reference]}
 Nonce: {.p.nonce}
 Issued At: {.p.iat}
 Resources:
